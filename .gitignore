@@ -1,0 +1,9 @@
+# Raw data files - never commit
+*.txt
+*.zip
+*.csv
+data/
+
+# Mac system files
+.DS_Store
+**/.DS_Store
